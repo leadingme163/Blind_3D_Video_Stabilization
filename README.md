@@ -7,6 +7,6 @@ Video stabilization compensates for frame shake during acquisition. Existing 3D 
 ### Ours Method Vs State-of-the-Art:
 
 ##### Visual Comparison
-![image](https://github.com/leadingme163/Blind-3D-Video-Stabilization/blob/main/Video%20Comparison.gif)
+![image](https://github.com/leadingme163/Blind_3D_Video_Stabilization/blob/main/Video_Comparison.gif)
 ##### Depths Comparison
-![image](https://github.com/leadingme163/Blind-3D-Video-Stabilization/blob/main/Depth%20Comparison.gif)
+![image](https://github.com/leadingme163/Blind_3D_Video_Stabilization/blob/main/Depth_Comparison.gif)
