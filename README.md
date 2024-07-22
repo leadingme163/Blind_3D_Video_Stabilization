@@ -19,7 +19,7 @@ Video stabilization compensates for frame shake during acquisition. Existing 3D 
 
 ### MotionBlur Dataset Example
 
-To provide a visual understanding of the dataset, below is a sample video from our dataset. You can access the full datasetd[here](https://drive.google.com/file/d/1ZjA-dJlnZvnaYJcK3mwh2UmPlAmZrQ4x/view?usp=drive_link). (It includes original and stabilized videos.)
+To provide a visual understanding of the dataset, below is a sample video from our dataset. You can access the full datasetd [here](https://drive.google.com/file/d/1ZjA-dJlnZvnaYJcK3mwh2UmPlAmZrQ4x/view?usp=drive_link).  (It includes original and stabilized videos.)
 
 
 ![Sample Image](https://github.com/leadingme163/Blind_3D_Video_Stabilization/blob/main/Example_1.png)
